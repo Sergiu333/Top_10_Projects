@@ -1,0 +1,14 @@
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\bin\Debug\Top_10_Projects.exe.config
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\bin\Debug\Top_10_Projects.exe
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\bin\Debug\Top_10_Projects.pdb
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.csproj.AssemblyReference.cache
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.Properties.Resources.resources
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.csproj.GenerateResource.cache
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.csproj.CoreCompileInputs.cache
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.exe
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.pdb
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.Form1.resources
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.Controls.Home.resources
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.Controls.AboutUs.resources
+C:\Users\sergiu\RiderProjects\Top_10_Projects\Top_10_Projects\obj\Debug\Top_10_Projects.Controls.Projects.resources
